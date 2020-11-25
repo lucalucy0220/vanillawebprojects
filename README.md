@@ -1,1 +1,1 @@
-this is the practice of https://github.com/bradtraversy/vanillawebprojects
+practice of web development
